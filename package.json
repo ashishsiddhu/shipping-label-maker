@@ -1,5 +1,6 @@
 {
   "name": "shipping-label-maker",
+  "homepage": "http://ashishsiddhu.github.io/shipping-label-maker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
