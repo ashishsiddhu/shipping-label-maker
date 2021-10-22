@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shipping-label-maker/static/css/main.d7d4db3c.chunk.css",
+    "main.js": "/shipping-label-maker/static/js/main.14c5f24c.chunk.js",
+    "main.js.map": "/shipping-label-maker/static/js/main.14c5f24c.chunk.js.map",
+    "runtime-main.js": "/shipping-label-maker/static/js/runtime-main.25f4d680.js",
+    "runtime-main.js.map": "/shipping-label-maker/static/js/runtime-main.25f4d680.js.map",
+    "static/css/2.4be38407.chunk.css": "/shipping-label-maker/static/css/2.4be38407.chunk.css",
+    "static/js/2.86ce4298.chunk.js": "/shipping-label-maker/static/js/2.86ce4298.chunk.js",
+    "static/js/2.86ce4298.chunk.js.map": "/shipping-label-maker/static/js/2.86ce4298.chunk.js.map",
+    "static/js/3.fbb68715.chunk.js": "/shipping-label-maker/static/js/3.fbb68715.chunk.js",
+    "static/js/3.fbb68715.chunk.js.map": "/shipping-label-maker/static/js/3.fbb68715.chunk.js.map",
+    "index.html": "/shipping-label-maker/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/shipping-label-maker/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d7d4db3c.chunk.css.map": "/shipping-label-maker/static/css/main.d7d4db3c.chunk.css.map",
+    "static/js/2.86ce4298.chunk.js.LICENSE.txt": "/shipping-label-maker/static/js/2.86ce4298.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shipping-label-maker/static/media/background.f75a2a37.jpg",
+    "static/media/logo.2bd93092.svg": "/shipping-label-maker/static/media/logo.2bd93092.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f4d680.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.86ce4298.chunk.js",
+    "static/css/main.d7d4db3c.chunk.css",
+    "static/js/main.14c5f24c.chunk.js"
+  ]
+}
