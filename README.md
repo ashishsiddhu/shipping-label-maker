@@ -1,3 +1,6 @@
+### [Live Demo URL]
+https://ashishsiddhu.github.io/shipping-label-maker
+
 ## SHIPPING LABEL MAKER EXERCISE (REACT)
 
 This application collects shipping information from users and creates shipping labels. Using multiple steps and confirmation. And this is Frontend focused only. 
